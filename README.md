@@ -18,7 +18,7 @@ Este proyecto consiste en un análisis exploratorio sobre cómo la llegada de la
 
 [Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VMUJER.pdf)
 
-![](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer/blob/main/BI_VMUJER_page-0001.jpg)
+![](/BI_VMUJER_page-0001.jpg)
 
 #### [Proyecto 2: Violencia escolar en el Perú 2013-2021 (SISEVE y ENARES)](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
@@ -36,7 +36,7 @@ Este proyecto consiste en un análisis exploratorio del fenómeno de la violenci
 
 [Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Peru_Violencia_Escolar/blob/main/BI_VESCOLAR.pdf)
 
-![](https://github.com/LuisChupica/Peru_Violencia_Escolar/blob/main/BI_VESCOLAR_page-0001.jpg)
+![](/BI_VESCOLAR_page-0001.jpg)
 
 
 
