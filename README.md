@@ -2,7 +2,7 @@
 ### Luis Chupica
 ### Sociologist | Data Enthusiast | Project Management
 
-#### Proyecto 1: Impacto de pandemia en búsqueda de atención y/o denuncias en casos de violencia contra la mujer
+#### [Proyecto 1: Impacto de pandemia en búsqueda de atención y/o denuncias en casos de violencia contra la mujer](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer)
 
 Este proyecto consiste en un análisis exploratorio de cómo la llegada de la pandemia afectó al nivel de denuncías y búsqueda de atención ante casos de violencia contra la mujer. 
 
@@ -14,7 +14,10 @@ Sin embargo, a raíz de la pandemia disminuyeron la cantidad de registros de la 
 
 Esto se constituye como un indicador preocupante, teniendo en cuenta que muchas víctimas viven con sus agresores, siendo casi la mitad en los casos de gravedad moderada (dashboard 3) y un retroceso claro en lo que se había logrado en materia de lucha contra la violencia hacia la mujer.
 
-#### Proyecto 2: Violencia escolar en el Perú 2013-2021 (SISEVE y ENARES)
+[Ver el repositorio de este proyecto en Github](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer)
+
+
+#### [Proyecto 2: Violencia escolar en el Perú 2013-2021 (SISEVE y ENARES)](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
 Este proyecto conssite en un análisis exploratorio del fenómeno de la violencia escolar a partir del registro del Sistema Especializado en Reporte de Casos sobre Violencia Escolar (SISEVE) y la Encuesta Nacional de Relaciones Sociales (ENARES).
 
@@ -25,3 +28,5 @@ Se evidencia un avance positivo en los casos de violencia escolar, ya que de acu
 Se muestra claramente que el conocimiento de las plataformas y canales de atención y denuncia (SISEVE, CEM, Linea 100 y DEMUNA) se ha incrementado en los últimos años a nivel nacional (dashboard 3)
 
 Sin embargo, aunque el conocimiento de los canales de atención haya crecido, aun sigue siendo usado mayoritariamente solo en el ambito de Lima Metropolitana (dashboard 4)
+
+[Ver el repositorio de este proyecto en Github](https://github.com/LuisChupica/Peru_Violencia_Escolar)
