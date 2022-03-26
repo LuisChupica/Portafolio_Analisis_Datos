@@ -16,6 +16,9 @@ Esto se constituye como un indicador preocupante, teniendo en cuenta que muchas 
 
 [Ver el repositorio de este proyecto en Github](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer)
 
+[Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VMUJER.pdf)
+
+![](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VMUJER_page-0001.jpg)
 
 #### [Proyecto 2: Violencia escolar en el Perú 2013-2021 (SISEVE y ENARES)](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
@@ -30,3 +33,10 @@ Se muestra claramente que el conocimiento de las plataformas y canales de atenci
 Sin embargo, aunque el conocimiento de los canales de atención haya crecido, aun sigue siendo usado mayoritariamente solo en el ambito de Lima Metropolitana (dashboard 4)
 
 [Ver el repositorio de este proyecto en Github](https://github.com/LuisChupica/Peru_Violencia_Escolar)
+
+[Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VESCOLAR.pdf)
+
+![](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VESCOLAR_page-0001.jpg)
+
+
+
