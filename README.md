@@ -6,7 +6,7 @@
 
 Este proyecto consiste en un análisis exploratorio de cómo la llegada de la pandemia afectó al nivel de denuncías y búsqueda de atención ante casos de violencia contra la mujer. 
 
-Hallazos principales:
+#### Hallazgos principales:
 
 De acuerdo a los registros de denuncias por violencia familiar de la Policía Nacional del Perú (PNP), de casos atendidos por los Centro de Emergencia Mujer (CEM) y los resultados anuales de la Encuesta Demográfica y de Salud Familiar (ENDES), se visibiliza claramente que en los últimos 7 años, cada vez más mujeres están animándose a denunciar casos de violencia, a la vez que se encuentran disminuyendo los casos de violencia, ambos indicadores positivos de las políticas públicas en la materia (dashboard 1)
 
@@ -18,13 +18,13 @@ Esto se constituye como un indicador preocupante, teniendo en cuenta que muchas 
 
 [Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VMUJER.pdf)
 
-![](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VMUJER_page-0001.jpg)
+![](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer/blob/main/BI_VMUJER_page-0001.jpg)
 
 #### [Proyecto 2: Violencia escolar en el Perú 2013-2021 (SISEVE y ENARES)](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
 Este proyecto conssite en un análisis exploratorio del fenómeno de la violencia escolar a partir del registro del Sistema Especializado en Reporte de Casos sobre Violencia Escolar (SISEVE) y la Encuesta Nacional de Relaciones Sociales (ENARES).
 
-Hallazos principales:
+#### Hallazgos principales:
 
 Se evidencia un avance positivo en los casos de violencia escolar, ya que de acuerdo a ENARES, menos escolares reportan haber sufrido algun tipo de violencia (dashboard 1)
 
@@ -34,9 +34,9 @@ Sin embargo, aunque el conocimiento de los canales de atención haya crecido, au
 
 [Ver el repositorio de este proyecto en Github](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
-[Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VESCOLAR.pdf)
+[Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Peru_Violencia_Escolar/blob/main/BI_VESCOLAR.pdf)
 
-![](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VESCOLAR_page-0001.jpg)
+![](https://github.com/LuisChupica/Peru_Violencia_Escolar/blob/main/BI_VESCOLAR_page-0001.jpg)
 
 
 
