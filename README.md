@@ -1,6 +1,6 @@
 ## Portafolio - Análisis de datos
-## Luis Chupica
-## Sociologist | Data Enthusiast | Project Management
+## <center> Luis Chupica
+## <center> Sociologist | Data Enthusiast | Project Management
 
 #### [Proyecto 1: Impacto de pandemia en búsqueda de atención y/o denuncias en casos de violencia contra la mujer](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer)
 
