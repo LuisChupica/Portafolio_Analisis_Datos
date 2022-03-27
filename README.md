@@ -3,8 +3,11 @@
 ## <center> Sociologist | Data Enthusiast | Project Management
 
 #### [Proyecto 1: Impacto de pandemia en búsqueda de atención y/o denuncias en casos de violencia contra la mujer](https://github.com/LuisChupica/Peru_Pandemia_Violencia_Mujer)
-
+  
 Este proyecto consiste en un análisis exploratorio sobre cómo la llegada de la pandemia afectó al nivel de denuncías y búsqueda de atención ante casos de violencia contra la mujer. 
+  
+  ![](/BI_VMUJER_page-0001.jpg)
+
 
 #### Hallazgos principales:
 
@@ -18,11 +21,12 @@ Este proyecto consiste en un análisis exploratorio sobre cómo la llegada de la
 
 [Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Portafolio_LuisChupica/blob/main/BI_VMUJER.pdf)
 
-![](/BI_VMUJER_page-0001.jpg)
 
 #### [Proyecto 2: Violencia escolar en el Perú 2013-2021 (SISEVE y ENARES)](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
 Este proyecto consiste en un análisis exploratorio del fenómeno de la violencia escolar a partir del registro del Sistema Especializado en Reporte de Casos sobre Violencia Escolar (SISEVE) y la Encuesta Nacional de Relaciones Sociales (ENARES).
+  
+  ![](/BI_VESCOLAR_page-0001.jpg)
 
 #### Hallazgos principales:
 
@@ -35,8 +39,6 @@ Este proyecto consiste en un análisis exploratorio del fenómeno de la violenci
 [Ver el repositorio de este proyecto en Github](https://github.com/LuisChupica/Peru_Violencia_Escolar)
 
 [Ver archivo .pdf completo del BI](https://github.com/LuisChupica/Peru_Violencia_Escolar/blob/main/BI_VESCOLAR.pdf)
-
-![](/BI_VESCOLAR_page-0001.jpg)
 
 
 
