@@ -1,4 +1,3 @@
-# Portafolio - Análisis de Datos 
 ## Luis Chupica
 ## Sociologist | Data Enthusiast | Project Management
 
